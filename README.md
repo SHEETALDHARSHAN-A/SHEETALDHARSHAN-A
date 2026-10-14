@@ -24,7 +24,6 @@ I built the system behind [An Autonomous Hiring Intelligence Using Goal-oriented
 | Repo | What it is | Notes |
 |---|---|---|
 | [signsense](https://github.com/SHEETALDHARSHAN-A/signsense) | Indian Sign Language learning app. A deep-learning model on OpenCV reads signs from the camera and grades the learner | Team of four, I was tech lead and built the model. Second place, All-India hackathon, Sengunthar Engineering College, 2025 |
-| [ClaimIt](https://github.com/SHEETALDHARSHAN-A/ClaimIt) | Lost-and-found app with photo-based ownership checks and a trust-points system | Django, MySQL. Team of four, tech lead |
 | [Heart-Disease-prediction](https://github.com/SHEETALDHARSHAN-A/Heart-Disease-prediction) | Bagging over Random Forest, KNN and logistic regression on the UCI dataset. 94% with cross-validation | scikit-learn, solo |
 | [neetcode-submissions](https://github.com/SHEETALDHARSHAN-A/neetcode-submissions) | DSA practice, mostly Python | Ongoing |
 
