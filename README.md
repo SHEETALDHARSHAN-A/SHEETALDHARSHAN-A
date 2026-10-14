@@ -19,14 +19,6 @@ A year as an AI intern at Prayag.AI, building the backend and the LLM interview 
 
 I built the system behind [An Autonomous Hiring Intelligence Using Goal-oriented AI Agents and Dynamic Skill Inference](https://doi.org/10.1109/ICMLAS67792.2026.11483816), IEEE ICMLAS 2026. My co-authors wrote the paper.
 
-## College work that is still worth a look
-
-| Repo | What it is | Notes |
-|---|---|---|
-| [signsense](https://github.com/SHEETALDHARSHAN-A/signsense) | Indian Sign Language learning app. A deep-learning model on OpenCV reads signs from the camera and grades the learner | Team of four, I was tech lead and built the model. Second place, All-India hackathon, Sengunthar Engineering College, 2025 |
-| [Heart-Disease-prediction](https://github.com/SHEETALDHARSHAN-A/Heart-Disease-prediction) | Bagging over Random Forest, KNN and logistic regression on the UCI dataset. 94% with cross-validation | scikit-learn, solo |
-| [neetcode-submissions](https://github.com/SHEETALDHARSHAN-A/neetcode-submissions) | DSA practice, mostly Python | Ongoing |
-
 ## How I work
 
 - The agent shows the SQL before it runs it. Always.
