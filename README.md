@@ -1,11 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Sheetaldharshan A. I build developer tools and AI agents that work over real databases." src="banner-light.svg" width="100%">
+  <img alt="Sheetal (Sheetaldharshan A). I build developer tools and AI agents that work over real databases." src="banner-light.svg" width="100%">
 </picture>
 
-### Hi, I'm Sheetal 👋
 
-Sheetal (Sheetaldharshan A), software engineer at [Exasol](https://www.exasol.com) in Chennai. I build developer tools and AI agents that work over real databases.
+software engineer at [Exasol](https://www.exasol.com) in Chennai. I build developer tools and AI agents that work over real databases.
 
 🌐 **Portfolio:** [sheetaldharshan.me](https://www.sheetaldharshan.me) · 💼 [LinkedIn](https://www.linkedin.com/in/sheetaldharshan)
 
