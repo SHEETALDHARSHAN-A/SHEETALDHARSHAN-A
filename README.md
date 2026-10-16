@@ -3,9 +3,12 @@
   <img alt="Sheetaldharshan A. I build developer tools and AI agents that work over real databases." src="banner-light.svg" width="100%">
 </picture>
 
-I am a software engineer at [Exasol](https://www.exasol.com). I build developer tools and AI agents that work over real databases, and I care about the part most demos skip: the installer that has to work on a stranger's laptop, the read-only login that cannot be misused, the SQL you get to see before it runs.
+### Hi, I'm Sheetal 👋
 
-This is my personal account. The work from the last few months lives on my work account, [@Sheetaldharshan200](https://github.com/Sheetaldharshan200).
+Sheetal (Sheetaldharshan A), software engineer at [Exasol](https://www.exasol.com) in Chennai. I build developer tools and AI agents that work over real databases.
+
+🌐 **Portfolio:** [sheetaldharshan.me](https://www.sheetaldharshan.me) · 💼 [LinkedIn](https://www.linkedin.com/in/sheetaldharshan)
+
 
 ## Now
 
